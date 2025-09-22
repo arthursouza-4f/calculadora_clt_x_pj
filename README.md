@@ -92,13 +92,4 @@ calculadora_clt_x_pj/
 
 ---
 
-## 📌 Próximos Passos
-
-- [ ] Implementar versão web do app.  
-- [ ] Adicionar opções de customização de impostos para PJ.  
-- [ ] Criar testes instrumentados (UI).  
-- [ ] Publicar na Play Store.  
-
----
-
 Feito com ❤️ por **4F Developers**
